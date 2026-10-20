@@ -1,9 +1,6 @@
 # opencode-free-provider
 
 把 **OpenCode Zen 免费模型**转成本地 **OpenAI 兼容接口**，让 ZCode、DeepSeek Harness、Cline、Continue、Aider、OpenCode 等任意客户端都能直接调用。
-
-> 本项目是 [jcleng/opencode-free-provider](https://github.com/jcleng/opencode-free-provider) 的 Windows 友好封装版：补齐了启动脚本、修掉了非 ASCII 路径下无法启动的问题，并整理了中文使用文档。上游代码版权归其作者所有，详见 [NOTICE](NOTICE)。
-
 ---
 
 ## 特性
